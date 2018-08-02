@@ -17,6 +17,10 @@ Currently to make this app possible please consider donation as I will need fina
 * Electron
 * Vue Js
 
+# Premium & Free Version
+* Premium version will receive benifits like fast match finding. 
+* I would not like to show ads that irritates user. I will be using this game so I think I will need to find a way to generate revenue without ads.
+
 
 # Features
 * 90%+ code coverage on tests
